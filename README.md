@@ -1,4 +1,4 @@
-# Hello Github
+# Hello guys,this is a python’s note.
 
+python 入门阶段
 
-xiao nie ,the first usage.
